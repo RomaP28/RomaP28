@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi! Welcome to my profile!
+    Hi!Welcome to my profile!
     <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="Wave Gif" />
   </h1>
   
